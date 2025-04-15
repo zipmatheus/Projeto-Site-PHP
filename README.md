@@ -23,7 +23,7 @@ Projeto Site PHP/
 ├── ofertas.php         # Página com resultados de busca por produtos
 ├── header.php          # Cabeçalho reutilizável do site
 ├── footer.php          # Rodapé reutilizável com botão de voltar ao topo
-└── assets/             # Pasta com imagens, estilos e scripts (não analisada aqui)
+└── assets/             # Pasta com imagens, estilos e scripts
 ```
 
 ## ⚙️ Requisitos
@@ -47,7 +47,7 @@ Projeto Site PHP/
    $dbName = 'banco';
    ```
 
-3. Importe a estrutura do banco de dados (`.sql`) se necessário (não incluso neste repositório, deve ser adicionado manualmente).
+3. Importe a estrutura do banco de dados (`.sql`) se necessário, ou ajuste as querys de acordo do sua estrutura.
 
 4. Suba o projeto em um servidor local (XAMPP, WAMP ou VPS).
 
